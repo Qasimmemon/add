@@ -1,0 +1,21 @@
+.box_img{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px ;
+    margin-left: 140px;
+}
+#img_main{
+    border-radius: 100%;
+}
+#img_1{
+    width: 60%;
+    height: 60%;
+}
+#img_2{
+    width: 60%;
+    height: 60%;
+}
+#img_3{
+    width: 60%;
+    height: 60%;
+}
